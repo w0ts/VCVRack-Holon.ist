@@ -2,11 +2,11 @@
   "name": "Holonic Systems",
   "author": "Holonic Systems",
   "license": "CC0 1.0",
-  "pluginUrl": "http://holon.ist/vcv/",
-  "authorUrl": "https://holonic.systems/",
+  "pluginUrl": "https://w0ts.github.io/VCVRack-Holon.ist/",
+  "authorUrl": "https://w0ts.github.io/",
   "authorEmail": "",
-  "manualUrl": "http://holon.ist/vcv/",
-  "sourceUrl": "https://github.com/hdavid/VCVRack-Holon.ist.git",
+  "manualUrl": "https://w0ts.github.io/VCVRack-Holon.ist/",
+  "sourceUrl": "https://github.com/w0ts/VCVRack-Holon.ist.git",
   "latestVersion": "1.0.9",
   "status": "available"
 }
